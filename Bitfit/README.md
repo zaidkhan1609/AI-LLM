@@ -70,6 +70,3 @@ This repository contains a comprehensive evaluation of lightweight fine-tuning m
 - [ ] Package the scripts for CLI-based evaluation
 - [ ] Extend experiments to larger models (e.g., BERT-large, T5-base)
 
-## 📜 License
-
-MIT License
